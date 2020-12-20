@@ -1088,4 +1088,26 @@ Text GLabel 3500 4000 2    50   Input ~ 0
 COL1
 Text GLabel 3500 4200 2    50   Input ~ 0
 COL3
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 5FCCB6B1
+P 1500 6650
+F 0 "H5" H 1600 6696 50  0000 L CNN
+F 1 "MountingHole" H 1600 6605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 1500 6650 50  0001 C CNN
+F 3 "~" H 1500 6650 50  0001 C CNN
+	1    1500 6650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 5FCCBE09
+P 1800 6650
+F 0 "H6" H 1900 6696 50  0000 L CNN
+F 1 "MountingHole" H 1900 6605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 1800 6650 50  0001 C CNN
+F 3 "~" H 1800 6650 50  0001 C CNN
+	1    1800 6650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

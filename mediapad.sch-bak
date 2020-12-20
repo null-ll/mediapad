@@ -952,7 +952,7 @@ F 3 "~" H 4950 1700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 4550 1500 0    50   Input ~ 0
-RST
+RESET
 Wire Wire Line
 	6950 2800 6950 3000
 Wire Wire Line
@@ -1071,7 +1071,7 @@ Wire Wire Line
 Wire Wire Line
 	5950 3800 5950 4150
 Text GLabel 2300 1600 0    50   Input ~ 0
-RST
+RESET
 Text GLabel 3500 3300 2    50   Input ~ 0
 EN1
 Text GLabel 3500 3100 2    50   Input ~ 0
@@ -1088,4 +1088,26 @@ Text GLabel 3500 4000 2    50   Input ~ 0
 COL1
 Text GLabel 3500 4200 2    50   Input ~ 0
 COL3
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 5FCCB6B1
+P 1500 6650
+F 0 "H?" H 1600 6696 50  0000 L CNN
+F 1 "MountingHole" H 1600 6605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 1500 6650 50  0001 C CNN
+F 3 "~" H 1500 6650 50  0001 C CNN
+	1    1500 6650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 5FCCBE09
+P 1800 6650
+F 0 "H?" H 1900 6696 50  0000 L CNN
+F 1 "MountingHole" H 1900 6605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 1800 6650 50  0001 C CNN
+F 3 "~" H 1800 6650 50  0001 C CNN
+	1    1800 6650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
