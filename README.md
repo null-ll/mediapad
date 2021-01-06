@@ -8,4 +8,4 @@ Case is still a WIP. Current version requires drilling holes into the top housin
 
 
 # usage
-![layout](https://i.imgur.com/gsNmhWS.png)
+![layout](https://i.imgur.com/oeyON0G.png)
